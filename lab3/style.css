@@ -1,0 +1,44 @@
+body {
+    background: #f3f2f3;
+    color: #000000;
+    font-size: 12px;
+}
+
+#container {
+    background: #ffffff;
+    margin: 30px auto;
+    width: 600px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+#img1 {
+    background: #5d86c5;
+    height: 300px;
+    width: 30%;
+}
+
+
+#text1 {
+    background: #66a5cc;
+    height: 300px;
+    width: 70%;
+}
+
+#img2 {
+    background: #4b69e3;
+    height: 100px;
+    width: 100%;
+}
+
+#text2 {
+    background: #e7f03c;
+    height: 100px;
+    width: 100%;
+}
